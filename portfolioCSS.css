@@ -1,0 +1,13 @@
+/*******************************
+* css stylesheet for portfolio *
+*******************************/
+
+body{
+    background-color: blue;
+}
+
+#wrapper{
+    text-align: cente;
+    padding: 200px;
+    margin: 0 auto;
+}
